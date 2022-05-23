@@ -1,1 +1,1 @@
-Git repo exercises
+alx-pre course
